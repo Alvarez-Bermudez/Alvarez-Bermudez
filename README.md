@@ -7,8 +7,9 @@ Soy un estudiante de Lic. en Física Nuclear del Instituto Superior de Tecnolog�
 Inicié mi camino en la programación con Visual Basic, donde desarrollé un clon simplificado de Terraria. Desde entonces, tengo un enfoque serio en la programación, siempre y cuando mi disponibilidad me lo ha permitido:
 - C++ (incluyendo C) como mi primer lenguaje aprendido.
 - Experiencia con Windows API y diseño 3D utilizando OpenGL (en C).
-- Conocimientos en C#, Visual Basic, JavaScript, Python, Java y PHP. 
-
+- Conocimientos en C#, Visual Basic y bases de datos como MySQL.
+- Desarrollador Front-end: HTML, CSS y JavaScript
+- Desarrollador Back-end: Node.js, Python, Java y PHP
 
 ## 🌱 En acción
 
