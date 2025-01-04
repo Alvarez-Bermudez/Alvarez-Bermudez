@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, soy Alvarez Bermudez! 👋
 
-<!--
-**Alvarez-Bermudez/Alvarez-Bermudez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Lic. en Física Nuclear del Instituto Superior de Tecnologías y Ciencias Aplicadas (InSTEC), Universidad de La Habana, apasionado por las ciencias computacionales y el desarrollo de software.
 
-Here are some ideas to get you started:
+## Acerca de mí 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Inicié mi camino en la programación con Visual Basic, donde desarrollé un clon simplificado de Terraria. Desde entonces, tengo un enfoque serio en la programación:
+- C++ (incluyendo C) como mi primer lenguaje aprendido.
+- Experiencia con Windows API y diseño 3D utilizando OpenGL (en C).
+- Conocimientos en C#, Visual Basic, JavaScript, Python, Java y PHP. 
+
+
+## 🌱 En acción
+
+- 📈 Aprendiendo Desarrollo Web Full Stack
+  - React y Next.js
+- 📈 Desarrollando apps con Kivy, framework de Python
+
+## 📬 Contáctame
+
+- Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/pedro-pablo-alvarez-bermúdez-57771432b)
+- Email: pedropalvarezb@gmail.com
+
+Un placer conocerte y poder aprender junto a ti 😄👍📈! 
+
+
