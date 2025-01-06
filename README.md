@@ -4,7 +4,7 @@ Soy un estudiante de Lic. en Física Nuclear del Instituto Superior de Tecnolog�
 
 ## Acerca de mí 😄
 
-Inicié mi camino en la programación con Visual Basic, donde desarrollé un clon simplificado de Terraria. Desde entonces, tengo un enfoque serio en la programación, siempre y cuando mi disponibilidad me lo ha permitido:
+Inicié mi camino en la programación con Visual Basic, donde desarrollé un clon simplificado de Terraria-Minecraft 2D. Desde entonces, tengo un enfoque serio en la programación, siempre y cuando mi disponibilidad me lo ha permitido:
 - C++ (incluyendo C) como mi primer lenguaje aprendido.
 - Experiencia con Windows API y diseño 3D utilizando OpenGL (en C).
 - Conocimientos en C#, Visual Basic y bases de datos como MySQL.
