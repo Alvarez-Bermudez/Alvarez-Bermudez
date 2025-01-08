@@ -19,7 +19,7 @@ Inicié mi camino en la programación con Visual Basic, donde desarrollé un clo
 
 ## 📬 Contáctame
 
-- Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/pedro-pablo-alvarez-bermudez-57771432b)
+- Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/alvarez-bermudez)
 - Sígueme en [X](https://x.com/alvarezbermdez)
 - Email: pedropalvarezb@gmail.com
 
