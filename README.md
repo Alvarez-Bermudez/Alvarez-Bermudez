@@ -1,21 +1,24 @@
 # ¡Hey, soy Alvarez Bermudez! 👋
 
-Soy un estudiante de Lic. en Física Nuclear del Instituto Superior de Tecnologías y Ciencias Aplicadas (InSTEC), Universidad de La Habana, apasionado por las ciencias exactas y dirigido, en parte, hacia el desarrollo de software.
+Soy un estudiante de Lic. en Física Nuclear del Instituto Superior de Tecnologías y Ciencias Aplicadas (InSTEC), Universidad de La Habana, apasionado por las ciencias exactas y dirigido, en parte, hacia el desarrollo de software. Realmente mi nombre es Pedro, Pedro Pablo, pero prefiero que me llamen por mis apellidos, gracias 😉
 
 ## Acerca de mí 😄
 
 Inicié mi camino en la programación con Visual Basic, donde desarrollé un clon simplificado de Minecraft en 2D. Desde entonces, tengo un enfoque serio en la programación, siempre y cuando mi disponibilidad me lo ha permitido:
 - C++ (incluyendo C) como mi primer lenguaje aprendido.
-- Experiencia con Windows API y diseño 3D utilizando OpenGL (en C).
-- Conocimientos en C#, Visual Basic y bases de datos como MySQL.
+- Experiencia con Win32 API (C).
+- Diseño 3D, OpenGL (C).
+- Conocimientos en C#, Visual Basic.
+- Bases de datos: MSSQL, sqlite3
 - Desarrollador Front-end: HTML, CSS y JavaScript
 - Desarrollador Back-end: Node.js, Python, Java y PHP
+- Desarrollador de apps multiplataforma, Kivy, Python
+- Sistema de control de versiones, Git. 
 
 ## 🌱 En acción
 
-- 📈 Aprendiendo Desarrollo Web Full Stack
-  - React y Next.js
-- 📈 Desarrollando apps con Kivy, framework de Python
+- 📈 Aprendiendo PostgreSQL
+- 📈 Aprendiendo Django
 
 ## 📬 Contáctame
 
