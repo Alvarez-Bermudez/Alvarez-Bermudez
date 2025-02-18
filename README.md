@@ -1,6 +1,6 @@
 # ¡Hey, soy Alvarez Bermudez! 👋
 
-Soy un estudiante de Lic. en Física Nuclear del Instituto Superior de Tecnologías y Ciencias Aplicadas (InSTEC), Universidad de La Habana, apasionado por las ciencias exactas y dirigido, en parte, hacia el desarrollo de software. Realmente mi nombre es Pedro, Pedro Pablo, pero prefiero que me llamen por mis apellidos, gracias 😉
+Soy graduado del Colegio Universitario de la Universidad de La Habana, apasionado por las ciencias exactas y dirigido hacia el desarrollo de software. Realmente mi nombre es Pedro, Pedro Pablo, pero prefiero que me llamen por mis apellidos, gracias 😉
 
 ## Acerca de mí 😄
 
