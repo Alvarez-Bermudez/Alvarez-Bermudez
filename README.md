@@ -12,7 +12,7 @@ Inicié mi camino en la programación con Visual Basic, donde desarrollé un clo
 - Conocimientos en C#, framework .NET y Visual Basic.
 - Bases de datos: MSSQL, SQLite.
 - Desarrollador Front-end: HTML, CSS y JavaScript.
-- Desarrollador Back-end: Node.js, Python, Java.
+- Desarrollador Back-end: Node.js, Python, Java y PHP.
 - Desarrollador de apps multiplataforma framework Kivy, Python.
 
 
