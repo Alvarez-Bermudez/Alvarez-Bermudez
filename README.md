@@ -20,13 +20,6 @@ Inicié mi camino en la programación con Visual Basic, donde desarrollé un clo
 
 - 📈 Aprendiendo MongoDB
 
-
-## 📬 Contáctame
-
-- Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/alvarez-bermudez)
-- Sígueme en [X](https://x.com/alvarezbermdez)
-- Email: pedropalvarezb@gmail.com
-
 ¡Un placer conocerte y poder aprender y colaborar junto a ti 🤝🙂👍📈! 
 
 
