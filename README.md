@@ -1,14 +1,26 @@
-# ¡Hey, soy Alvarez Bermudez! 👋
-Apasionado por las ciencias exactas y dirigido hacia el desarrollo de software. Mi nombre: Pedro Alvarez Bermúdez
+# ¡Hi, I'm Alvarez Bermudez! 👋
+Full‑stack Developer & Designer | Driven by math, physics, and software development.
 
-## Acerca de mí 😄
+---
 
-Inicié mi camino en la programación con Visual Basic, donde desarrollé un clon simplificado de Minecraft en 2D. Desde entonces, tengo un enfoque serio en la programación, siempre y cuando mi disponibilidad me lo ha permitido:
-- HTML | CSS | React | TailwindCSS | Javascript
-- Nodejs | Express
-- Postgresql | Sqlite
-- C | Python.
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-blue?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 
-Un placer conocerte y poder aprender y colaborar junto a ti 🤝🙂👍📈! 
+---
+
+A pleasure to meet you and to be able to learn and collaborate with you 🤝🙂👍📈! 
+
+--- 
+
+## 📈 GitHub Stats
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+
 
 
